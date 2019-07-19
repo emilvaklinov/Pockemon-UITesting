@@ -2,8 +2,7 @@
 //  PoisenDefenderTests.swift
 //  PoisenDefenderTests
 //
-//  Created by The App Experts on 27/06/2019.
-//  Copyright © 2019 Brian @ TAE. All rights reserved.
+
 //
 
 import XCTest

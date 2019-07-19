@@ -2,8 +2,7 @@
 //  Pokemon.swift
 //  Pokemon
 //
-//  Created by Brian @ TAE on 17/09/2018.
-//  Copyright © 2018 Brian @ TAE. All rights reserved.
+//
 //
 
 import Foundation

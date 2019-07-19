@@ -2,8 +2,7 @@
 //  GrassDefenderTests.swift
 //  GrassDefenderTests
 //
-//  Created by The App Experts on 26/06/2019.
-//  Copyright © 2019 Brian @ TAE. All rights reserved.
+
 //
 
 import XCTest
